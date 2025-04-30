@@ -1,5 +1,3 @@
-Here’s a detailed `README.md` for your Pong game project, which you can use for your GitHub repository:
-
 ---
 
 # Pong Game
